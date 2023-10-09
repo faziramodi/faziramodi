@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @faziramodi
 - 👀 I’m interested in many things actually
 - 🌱 I’m currently learning C languange and CSS+HTML+PHP
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 faziramodi/faziramodi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
